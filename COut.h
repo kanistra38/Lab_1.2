@@ -5,5 +5,4 @@
 
 void OutputInfo (CCex &cex);
 
-
 #endif
